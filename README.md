@@ -37,14 +37,14 @@ First-year student building full-stack applications and ML systems independently
 
 ## Featured Projects
 
-### 🏆 [FIFA World Cup 2026 Predictor](https://github.com/Bhushan2007-git-hub/fifa-wc-2026-predictor)
+### [FIFA World Cup 2026 Predictor](https://github.com/Bhushan2007-git-hub/fifa-wc-2026-predictor)
 ML-powered full-stack app predicting all 2026 World Cup matches, group standings, and tournament winner probabilities.
 - Ensemble ML model trained on 49,306 international matches (1872–2026)
 - Monte-Carlo tournament simulation across 48-team official bracket
 - 7 datasets: match results, Elo ratings, FIFA rankings, shootout records, xG data
 - FastAPI backend · React + Vite frontend · Docker
 
-### 🌱 [Soil Moisture & Water Level Monitor](https://github.com/Bhushan2007-git-hub/soil-moisture-monitor)
+### [Soil Moisture & Water Level Monitor](https://github.com/Bhushan2007-git-hub/soil-moisture-monitor)
 Real-time Arduino sensor dashboard with live data visualisation.
 - Flask backend reading serial data from Arduino at 9600 baud
 - HC-SR04 ultrasonic sensor (water depth) + resistive soil moisture sensor
