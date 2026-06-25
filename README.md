@@ -9,7 +9,7 @@ First-year student building full-stack applications and ML systems independently
 
 - **FIFA World Cup 2026 Predictor** — Full-stack ML application predicting match outcomes and tournament results for all 48 teams. Built with FastAPI, scikit-learn (ensemble of RF + GB + LR), React, and Monte-Carlo simulation. Trained on 49,000+ international matches.
 
-- Exploring **fintech** and **financial literacy** products for young Indians.
+- Exploring **fintech** and **financial literacy** products for young people.
 
 ---
 
