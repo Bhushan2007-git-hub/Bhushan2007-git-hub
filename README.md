@@ -65,5 +65,3 @@ Real-time Arduino sensor dashboard with live data visualisation.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhushan-balaji-7a8789375/)
 
 ---
-
-*First year. Building things that work.*
