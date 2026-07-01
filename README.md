@@ -1,5 +1,5 @@
 # Hey, I'm Bhushan 👋
-**B.Tech Computer Science & Engineering @ VIT Chennai**
+**B.Tech Computer Science & Engineering (Artificial Intelligence and Machine Learning) @ VIT Chennai**
 
 Undergrad student building full-stack applications and ML systems independently.
 
