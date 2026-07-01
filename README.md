@@ -27,13 +27,6 @@ Undergrad student building full-stack applications and ML systems independently.
 
 ---
 
-## Education
-
-**B.Tech, Computer Science & Engineering (AI & ML)** — VIT Chennai
-Class of 2029
-
----
-
 ## Areas of Interest
 
 - Machine learning systems — from model design to deployment
